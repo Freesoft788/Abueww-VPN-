@@ -1,6 +1,8 @@
 #profile-title: ABUEWW VPN ЗАРУБЕЖ 🌎
-#profile-update-interval: 15882
+#profile-update-interval: 1
 #subscription-userinfo: upload=67; download=67; total=888gb; expire=888gb
+# Date/Time: 2026-06-16 / 17:11 (Moscow)
+# Date/Time: 2026-08-16 / 17:11 (Moscow)
 vless://e5f01dff-24be-4ae8-b701-a9b3e783cca0@94.183.170.16:55443?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=yandex.ru&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#%F0%9F%87%AA%F0%9F%87%AA%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.64:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 vless://e5f01dff-24be-4ae8-b701-a9b3e783cca0@94.183.170.16:44333?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906#%F0%9F%87%AA%F0%9F%87%AA%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%202
