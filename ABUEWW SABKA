@@ -1,0 +1,8 @@
+#profile-title: Конфиги | Халява ВПН
+#profile-update-interval: 3
+#subscription-userinfo: expire=5774966400; total=10995116277760; used=0
+#announce: Подписка была создана пользователем Abueww
+vless://b6578acd-9b9e-4293-beef-f14c6ffb7751@37.220.163.248:443?type=ws&security=tls&sni=s95692.cdn.ngenix.net&alpn=http/1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%20%E2%80%94%20%23219
+vless://b6578acd-9b9e-4293-beef-f14c6ffb7751@195.208.65.191:443?type=ws&security=tls&sni=s99309.cdn.ngenix.net&alpn=http/1.1&fp=edge&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAGermany%20%E2%80%94%20%2328
+vless://eb0f272a-b468-0014-a68c-d8fe8bb4b367@92.53.74.205:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pirogovoru.instrumentidlyadoma.com&pbk=hcrfswC54uZFwQxdFzFT7kkaQJSTpF_xjr1kHCI08mw#%F0%9F%87%A9%F0%9F%87%AAGermany%20%E2%80%94%20%2395
+vless://24f241d4-a196-4bfd-8882-859d7db8bcd8@51.250.40.74:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%20%E2%80%94%20%23256
